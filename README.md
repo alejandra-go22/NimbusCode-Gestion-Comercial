@@ -54,7 +54,7 @@ El trabajo se desarrolla tomando como base las entregas anteriores del Trabajo P
 ## 7. Herramientas de trabajo
 
 - Git y GitHub para el control de versiones y la documentación.
-- GitHub Projects para la gestión del backlog (a configurar).
+- GitHub Projects para la gestión del backlog y seguimiento de historias de usuario.
 - BPMN para el modelado de procesos.
 
 ## 8. Declaración de uso de Inteligencia Artificial
